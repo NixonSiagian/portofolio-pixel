@@ -1,0 +1,6 @@
+{
+  "name": "Emmanuel Nixon Portfolio",
+  "description": "An interactive cozy RPG-style and cinematic gameplay office portfolio showcase for Emmanuel Nixon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
